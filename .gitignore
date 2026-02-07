@@ -1,0 +1,3 @@
+# ignore logs
+PILOT/logs/
+PyCIL/logs/
