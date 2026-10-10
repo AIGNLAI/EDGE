@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use EDGE in your research, please cite the ICLR 2026 paper."
+type: software
+title: "EDGE: Official implementation of The Lie of the Average"
+url: "https://github.com/AIGNLAI/EDGE"
+authors:
+  - family-names: Lai
+    given-names: Guannan
+  - family-names: Zhou
+    given-names: Da-Wei
+  - family-names: Yang
+    given-names: Xin
+  - family-names: Ye
+    given-names: Han-Jia
+preferred-citation:
+  type: conference-paper
+  title: "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You?"
+  authors:
+    - family-names: Lai
+      given-names: Guannan
+    - family-names: Zhou
+      given-names: Da-Wei
+    - family-names: Yang
+      given-names: Xin
+    - family-names: Ye
+      given-names: Han-Jia
+  collection-title: "International Conference on Learning Representations (ICLR)"
+  year: 2026
+  url: "https://openreview.net/forum?id=19LHXi9uLw"
