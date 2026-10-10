@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://openreview.net/forum?id=19LHXi9uLw">Paper</a> ·
   <a href="https://openreview.net/pdf?id=19LHXi9uLw">PDF</a> ·
-  <a href="#-how-to-use">Get Started</a> ·
+  <a href="#how-to-use">Get Started</a> ·
   <a href="#-citation">Citation</a> ·
   <a href="https://github.com/AIGNLAI/EDGE/issues">Issues</a>
 </p>
@@ -60,7 +60,7 @@ At a high level, EDGE:
 - [2025-10] 🌟 Initial release of EDGE evaluation code
 - [2025-09] 🌟 [arXiv preprint](https://arxiv.org/abs/2509.22580) released
 
-## ☄️ How to Use
+## How to Use
 
 We integrate **EDGE** into two widely-used CIL toolboxes:
 - **PILOT**: https://github.com/LAMDA-CL/LAMDA-PILOT  
